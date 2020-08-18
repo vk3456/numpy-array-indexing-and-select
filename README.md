@@ -1,1 +1,0 @@
-# numpy-array-indexing-and-select
